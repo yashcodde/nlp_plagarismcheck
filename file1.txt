@@ -1,0 +1,2 @@
+NLP is very important in real time applications and very useful text analytics and can be
+used in plagiarism checking.
